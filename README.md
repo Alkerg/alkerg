@@ -12,7 +12,10 @@
 
 ###
 
-<p align="left">🔭 I’m currently making backend projects and action videogames<br>👯 I’m looking to collaborate on web/mobile app projects<br>🌱 I’m currently learning Angular, API design and Unreal Engine</p>
+- 🔭 I’m currently making backend projects and action videogames
+- 👯 I’m looking to collaborate on web/mobile app projects
+- 🌱 I’m currently learning Angular, API design and Unreal Engine
+- 🕹️ My games portfolio [alkerg.itch.io](https://alkerg.itch.io)
 
 ###
 
