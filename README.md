@@ -91,10 +91,10 @@
 
 ###
 
-<h2 align="left">📊  Github stats:</h2>
+<h2 align="left">📊  Github stats</h2>
 
 ###
 
   [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=alkerg&hide=stars&theme=merko)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
+  
 ###
