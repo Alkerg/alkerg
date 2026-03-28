@@ -92,12 +92,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alkerg&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<div>
-  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Alkerg)](https://github.com/pranesh-2005/github-readme-stats-fast)
-</div>
+  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=alkerg&hide=stars&theme=merko)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ###
